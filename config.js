@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter phantom', // <title>
+  siteTitle: 'The Coders Guild Liverpool Bootcamp Stories!', // <title>
   manifestName: 'Phantom',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
