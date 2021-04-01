@@ -2,12 +2,13 @@ import React from 'react';
 
 import Layout from '../components/Layout';
 
-import pic1 from '../assets/images/01.jpg';
+import cassietech from '../assets/images/cassie-tech.jpg';
 import pic2 from '../assets/images/02.jpg';
 import pic3 from '../assets/images/03.jpg';
 import pic4 from '../assets/images/04.jpg';
 import pic5 from '../assets/images/05.jpg';
 import pic6 from '../assets/images/06.jpg';
+import lccLogo from '../assets/images/lcrca-logo.jpeg';
 
 import { Link } from 'gatsby';
 
@@ -17,27 +18,29 @@ const IndexPage = () => (
       <div className="inner">
         <header>
           <h1>
-            This is Phantom, a free, fully responsive gatsby starter
+            Successful End to Liverpool Digital Skills Bootcamp 2021
             <br />
           </h1>
           <p>
-            Etiam quis viverra lorem, in semper lorem. Sed nisl arcu euismod sit
-            amet nisi euismod sed cursus arcu elementum ipsum arcu vivamus quis
-            venenatis orci lorem ipsum et magna feugiat veroeros aliquam. Lorem
-            ipsum dolor sit amet nullam dolore.
+          The main purpose of this programme is to make jobs in tech more accessible for
+          people in the BAME community, female candidates, and those who have recently been
+          made redundant or unemployed due to lockdown. But we’re also looking to help people
+          currently in entry-level tech roles progress up the ladder more quickly and easily,
+          as well as introducing people from non-technical backgrounds to the wonderful world
+          of coding.
           </p>
+          <img src={lccLogo} alt="" />
         </header>
         <section className="tiles">
           <article className="style1">
             <span className="image">
-              <img src={pic1} alt="" />
+              <img src={cassietech} alt="" />
             </span>
-            <Link to="/Generic">
-              <h2>Magna</h2>
+            <Link to="/Cassie">
+              <h2>Cassie</h2>
               <div className="content">
                 <p>
-                  Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros
-                  et feugiat.
+                  "Quote from Cassie?"
                 </p>
               </div>
             </Link>
@@ -114,7 +117,7 @@ const IndexPage = () => (
           </article>
           <article className="style2">
             <span className="image">
-              <img src={pic1} alt="" />
+              <img src={cassietech} alt="" />
             </span>
             <Link to="/Generic">
               <h2>Ipsum</h2>

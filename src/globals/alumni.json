@@ -1,0 +1,58 @@
+[
+    {
+      "name": "Crispin",
+      "image": "../images/team/crispin.jpeg",
+      "occupation": "Founder & Director",
+      "description": "Making sure everything we do is brilliant and always getting better. 20 years as a developer, now full time advocate for apprenticeships and equality.",
+      "social": {
+        "linkedin": "https://www.linkedin.com/in/crispinread",
+        "twitter": "https://twitter.com/crispin_read",
+        "github": "https://github.com/crispinread"
+      }
+    },
+    {
+      "name": "Naomi",
+      "image": "../images/team/naomi.jpeg",
+      "occupation": "Applications Manager",
+      "description": "Looking after all our learners and partners, keeping projects running smoothly. Working in apprenticeships since 2006, also heads up our social media channels - it’s Naomi you’re talking to on twitter and instagram.",
+      "social": {
+        "linkedin": "https://www.linkedin.com/in/naomi-harker-4913ab150/"
+      }
+    },
+    {
+      "name": "Helen",
+      "image": "../images/team/helen.jpeg",
+      "occupation": "Head of Partnerships and Social Mission",
+      "description": "Keeping us on track with compliance and constantly improving the quality of our delivery. She’s also heading up our social mission.",
+      "social": {
+        "linkedin": "https://www.linkedin.com/in/helen-marie-shackleton-mba-6a55995/"
+      }
+    },
+    {
+      "name": "Fiona",
+      "image": "../images/team/fiona.jpg",
+      "occupation": "Partnerships Development Manager",
+      "description": "First point of contact for our partners and customers, making sure everyone we work with shares our vision and gets the most out of apprenticeships and training.",
+      "social": {
+        "linkedin": "https://www.linkedin.com/in/bishopfionaadministration/"
+      }
+    },
+    {
+      "name": "Alex",
+      "image": "../images/team/alex.jpg",
+      "occupation": "Lead Technical Trainer",
+      "description": "Devising, delivering monitoring and improving our technical training. Alex is a very experienced web developer and qualified trainer and assessor too.",
+      "social": {
+        "github": "https://github.com/alexseymourdev"
+      }
+    },
+    {
+      "name": "Mark",
+      "image": "../images/team/mark.jpeg",
+      "occupation": "Lead Assessor",
+      "description": "Heads up progress reviews and on-course monitoring. Mark wrote is first bit of JavaScript in 1996 and it is <strong>still live</strong>. He has been working in technical apprenticeships for 8 years, our resident expert in all things ‘Apprenticeship Standards’ - delivery, quality and achievement.",
+      "social": {
+        "linkedin": "https://www.linkedin.com/in/mark-palmer-b171b35/"
+      }
+    }
+  ]
